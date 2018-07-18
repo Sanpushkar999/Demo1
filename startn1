@@ -1,0 +1,8 @@
+#include<iostream.h>
+
+void main()
+randomise();
+int x,y;
+x=100;
+random(x);
+cout<<x;
